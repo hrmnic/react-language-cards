@@ -1,0 +1,16 @@
+/* .header-logo{
+    margin: 15px 0;
+    font-size: 30px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    
+} */
+.react-logo{
+    margin-top: 1rem;
+    width: 5rem;
+    height: 4rem;
+    margin-bottom: 5px;
+    margin-bottom: 1rem;
+}
