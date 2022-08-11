@@ -1,2 +1,2 @@
 # Language Cards
-![preview](https://www.hizliresim.com/t31dqf9)
+![preview]([https://www.hizliresim.com/t31dqf9 görsel])
